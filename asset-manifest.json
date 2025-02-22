@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/tranhieu4345.github.io/static/css/main.737bcb1e.css",
+    "main.js": "/tranhieu4345.github.io/static/js/main.21d97996.js",
+    "static/js/415.4d6acbeb.chunk.js": "/tranhieu4345.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/tranhieu4345.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pinterest.png": "/tranhieu4345.github.io/static/media/pinterest.94b5ad07a1aa72a38f7d.png",
+    "static/media/airbnb.png": "/tranhieu4345.github.io/static/media/airbnb.5bca8844605c95424938.png",
+    "static/media/leaf.png": "/tranhieu4345.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/tranhieu4345.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/tranhieu4345.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/elearning.png": "/tranhieu4345.github.io/static/media/elearning.cba999a729cf78eaac4b.png",
+    "static/media/codeEditor.png": "/tranhieu4345.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/tranhieu4345.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/tranhieu4345.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/tranhieu4345.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CV_TranTrongHieu.pdf": "/tranhieu4345.github.io/static/media/CV_TranTrongHieu.d73b7bf3021a2fa6edf6.pdf",
+    "static/media/chatify.png": "/tranhieu4345.github.io/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/tranhieu4345.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/tranhieu4345.github.io/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/tranhieu4345.github.io/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/tranhieu4345.github.io/index.html",
+    "main.737bcb1e.css.map": "/tranhieu4345.github.io/static/css/main.737bcb1e.css.map",
+    "main.21d97996.js.map": "/tranhieu4345.github.io/static/js/main.21d97996.js.map",
+    "415.4d6acbeb.chunk.js.map": "/tranhieu4345.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/tranhieu4345.github.io/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.737bcb1e.css",
+    "static/js/main.21d97996.js"
+  ]
+}
